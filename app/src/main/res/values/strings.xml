@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Intents</string>
+    <string name="button_txt">Open web page</string>
+    <string name="button2_txt">Make a phone call</string>
+    <string name="button3_txt">Navigate map</string>
+    <string name="button4_txt">Take a picture</string>
+    <string name="button5_txt">Send e-mail</string>
 </resources>
